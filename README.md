@@ -13,4 +13,6 @@ Run the notebook
 ![2](https://user-images.githubusercontent.com/28666943/82893012-46d15c00-9f05-11ea-9fb8-9b7490a3657c.JPG)
 
 ## Results 
+![3](https://user-images.githubusercontent.com/28666943/82893498-f5759c80-9f05-11ea-81d1-5448f004af17.JPG)
+![4](https://user-images.githubusercontent.com/28666943/82893514-fa3a5080-9f05-11ea-9f38-0db3e3720191.JPG)
 
