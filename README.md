@@ -2,8 +2,8 @@
 Using CNN on patients chest X-ray images to predict Pneumonia
 
 ## Running Instructions
-Download dataset --> https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia/download
-Change FILE_PATH in the notebook
+Download dataset --> https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia/download \n
+Change FILE_PATH in the notebook \n
 Run the notebook
 
 ## Comparision of normal X-ray scan and Pneumonia X-ray scan
